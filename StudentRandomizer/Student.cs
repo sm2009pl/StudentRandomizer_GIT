@@ -27,7 +27,7 @@ namespace StudentRandomizer
             notAnswered = 0;
             waitingVar = 0;
         }
-
+        //Set choosing priority for students
         public void CheckPriority(Random rnd)
         {
             priority = rnd.Next(100, 200) - correctAnswers * 2 - wrongAnswers * 1 + notAnswered * 2 + waitingVar * 2;
@@ -37,6 +37,7 @@ namespace StudentRandomizer
             }
         }
 
+        //Get name, surname and album number
         public string GetText()
         {
             StringBuilder strBuild = new StringBuilder();
@@ -45,6 +46,7 @@ namespace StudentRandomizer
             return str;
         }
 
+        //Get every prop of student
         public string GetStudent()
         {
             StringBuilder strBuild = new StringBuilder();
@@ -54,6 +56,7 @@ namespace StudentRandomizer
             return str;
         }
 
+        //Use string to set student's props
         public bool CopyFromString(string str)
         {
             string[] studentAdding = new string[7];

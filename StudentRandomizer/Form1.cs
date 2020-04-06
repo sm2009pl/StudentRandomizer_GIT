@@ -17,12 +17,13 @@ namespace StudentRandomizer
         {
             InitializeComponent();
         }
-
+        // Loads list from disk
         private void button1_Click(object sender, EventArgs e)
         {
             openFileDialog1.ShowDialog();
         }
 
+        // Sets up checkedListBox for work
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
             checkedListBox1.Items.Clear();
@@ -56,7 +57,7 @@ namespace StudentRandomizer
             }
         }
 
-
+        // Random choice of student from checked students
         private void button2_Click(object sender, EventArgs e)
         {
             List<Student> checkedStudents = new List<Student>();
@@ -73,6 +74,9 @@ namespace StudentRandomizer
             checkedStudents.Clear();
         }
 
+        // Buttons that increase statistics of chosen student
+        // ..
+        // ..
         private void button3_Click(object sender, EventArgs e)
         {
             if (GChosenStudent.getChosenStudent != null)
@@ -104,6 +108,11 @@ namespace StudentRandomizer
             GChosenStudent.getChosenStudent = null;
             textBox1.Text = "";
         }
+        // ..
+        // ..
+        // Buttons that increase statistics of chosen student
+
+        // Saves current list
         private void button6_Click(object sender, EventArgs e)
         {
             if (GStudentList.getStudents.Count != 0)

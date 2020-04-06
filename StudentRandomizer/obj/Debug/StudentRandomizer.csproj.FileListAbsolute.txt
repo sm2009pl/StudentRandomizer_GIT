@@ -1,0 +1,11 @@
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\bin\Debug\StudentRandomizer.exe.config
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\bin\Debug\StudentRandomizer.exe
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\bin\Debug\StudentRandomizer.pdb
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.csprojAssemblyReference.cache
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.ErrorMsgBox.resources
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.Form1.resources
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.Properties.Resources.resources
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.csproj.GenerateResource.cache
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.exe
+C:\Users\Intel\Desktop\Programowanie projekt\StudentRandomizer_GIT\StudentRandomizer\obj\Debug\StudentRandomizer.pdb

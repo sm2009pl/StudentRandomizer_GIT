@@ -9,6 +9,8 @@ namespace StudentRandomizer
     class Randomizer
     {
         Random rnd = new Random();
+
+        // Set random priority for all students
         public void SetPriority(List<Student> students)
         {
             foreach (var item in students)
@@ -16,6 +18,8 @@ namespace StudentRandomizer
                 item.CheckPriority(rnd);
             }
         }
+
+        //Use list of students to choose one
         public void ChooseStudentFromList(List<Student> students)
         {
             int maxPriority = 0;
